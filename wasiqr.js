@@ -68,26 +68,25 @@ ______________________________________
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@eliahhango
-║❒ *Owner:* _https://wa.me/255688164510_
-║❒ *Repo:* _https://github.com/Eliahhango/Elitechwiz-Md_
-║❒ *WaGroup:* _https://chat.whatsapp.com/CYCsiLbYGKi0q7fc6xiPWk_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaeEYF0BvvsZpaTPfL2s_
-║❒ *Plugins:* _https://github.com/Eliahhango 
+║❒ *Owner:* _https://wa.me/25556530143_
+║❒ *Repo:* _https://github.com/HANSTZ3-HANSD_
+║❒ *WaGroup:* _https://chat.whatsapp.com/FA8HSJjO94TFWj7ZGMNaOU_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31_
+║❒ *Plugins:* _https://github.com/HANSYZ3 
 ╚════════════════════════╝
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
-	 await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Eliah_Tech.user.id,{text:Elitechwiz_Md_TEXT},{quoted:session})
+	 await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Hans_Tech.user.id,{text:Elitechwiz_Md_TEXT},{quoted:session})
 
 
 
 					await delay(100);
-					await Qr_Code_By_Eliah_Tech.ws.close();
+					await Qr_Code_By_hans_Tech.ws.close();
 					return await removeFile("temp/" + id);
 				} else if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
 					await delay(10000);
-					Elitechwiz_Md_QR_CODE();
+					hans_Md_QR_CODE();
 				}
 			});
 		} catch (err) {
@@ -100,6 +99,6 @@ _Don't Forget To Give Star To My Repo_`
 			await removeFile("temp/" + id);
 		}
 	}
-	return await Elitechwiz_Md_QR_CODE()
+	return await Hans_Md_QR_CODE()
 });
 module.exports = router

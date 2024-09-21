@@ -67,7 +67,7 @@ ______________________________________
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Owner:* _https://wa.me/25556530143_
-║❒ *Repo:* _https://github.com/Eliahhango/HANS-MD
+║❒ *Repo:* _https://github.com/HANSTZ3/HANS-MD
 ║❒ *WaGroup:* _https://chat.whatsapp.com/FA8HSJjO94TFWj7ZGMNaOU_      ║❒ *WaChannel:* _https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31
 ║❒ *GITHUB:* _https://github.com/HANSTZ3_
 ╚════════════════════════╝
